@@ -1,0 +1,16 @@
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\obj\Debug\net5.0\ParadigmaFuncional.csproj.AssemblyReference.cache
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\obj\Debug\net5.0\ParadigmaFuncional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\obj\Debug\net5.0\ParadigmaFuncional.AssemblyInfoInputs.cache
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\obj\Debug\net5.0\ParadigmaFuncional.AssemblyInfo.cs
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\obj\Debug\net5.0\ParadigmaFuncional.csproj.CoreCompileInputs.cache
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\bin\Debug\net5.0\ParadigmaFuncional.exe
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\bin\Debug\net5.0\ParadigmaFuncional.deps.json
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\bin\Debug\net5.0\ParadigmaFuncional.runtimeconfig.json
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\bin\Debug\net5.0\ParadigmaFuncional.runtimeconfig.dev.json
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\bin\Debug\net5.0\ParadigmaFuncional.dll
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\bin\Debug\net5.0\ref\ParadigmaFuncional.dll
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\bin\Debug\net5.0\ParadigmaFuncional.pdb
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\obj\Debug\net5.0\ParadigmaFuncional.dll
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\obj\Debug\net5.0\ref\ParadigmaFuncional.dll
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\obj\Debug\net5.0\ParadigmaFuncional.pdb
+C:\Users\YinRo\source\repos\Paradigmas\ParadigmaFuncional\obj\Debug\net5.0\ParadigmaFuncional.genruntimeconfig.cache
